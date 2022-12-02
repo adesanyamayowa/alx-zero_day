@@ -1,1 +1,1 @@
-git 3
+Starting to code today, so cool
